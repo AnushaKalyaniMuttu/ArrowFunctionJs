@@ -1,0 +1,1 @@
+const year= birthyear=> 2000- birthYear;
